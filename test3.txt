@@ -1,0 +1,16 @@
+1. Mer Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsl osgpen oon  2 elements each.
+Conquer: Sort the two subsequences reytvoely using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealinwith sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values chai as we recurse through sub
+problems to sort A[p…r]

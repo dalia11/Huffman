@@ -1,0 +1,55 @@
+
+ : 01110
+  : 101
+& : 111100001
+. : 10000
+/ : 111101011
+1 : 1100001
+2 : 11000101
+3 : 111100100
+4 : 111101111
+: : 11110001
+A : 11000100
+C : 111100000
+D : 111101000
+H : 11000001
+I : 111101001
+O : 111101100
+T : 1100011
+W : 111101101
+Y : 111101110
+a : 10001
+b : 111101010
+c : 11100
+d : 00111
+e : 010
+f : 00100
+g : 001011
+h : 01111
+i : 0000
+l : 001010
+m : 11111
+n : 11101
+o : 1101
+p : 11001
+q : 11000000
+r : 0110
+s : 1001
+t : 0001
+u : 00110
+w : 111100101
+x : 111100111
+y : 111100110
+end of codes
+end of header
+Assignment 1
+Huffman Compression & Decompressn
+You are required to wrtruc   gram that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the fteinn.1pd f the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The executn time.

@@ -1,0 +1,30 @@
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file pat3ops Riiers\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
